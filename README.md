@@ -1,36 +1,51 @@
-- 👋 Hi, I’m @JBTheRooster, Jason, or JB
+# 🐓 JBTheRooster / Jason / JB
 
-- 👀 I’m interested in ...
-  - My family (wife and 2 kids are my world)
-  - Video games (broad selection of genres across basically all platforms, though PC is my preferred platform and Black Ops 6 is my preferred game as of this writing)
-  - Anime (mostly shonens I guess but honestly I'll watch just about anything)
-  - 3D modeling/3D printing (I'm a beginner at 3D modeling in Blender and a frequent user of my Creality Ender 3 V3 KE and AnyCubic Photon M3)
-  - YouTube (amateur content creator, video editor, graphic designer, etc.)
+Hey there! I'm Jason (but you can call me JB). I'm a full-time IT SysAdmin, part-time game dev, and full-time chaos engine running on caffeine and ADHD. I love building stuff — whether it's a tool to help gamers or a weird idea that only makes sense to me at 2am.
 
-- 🌱 I’m currently learning ...
-  - Android development (Kotlin & Android Studio) - complete beginner (literally just started)
-  - Game development (Unity & C#) - late beginner/early intermediate I guess (dabbled in multiple projects and successfully published one game on Android/iOS)
+---
 
-- 💞️ I’m looking to collaborate on ...
-  - Nothing that I can think of currently (I'm a bit of a loner, plus I'm not confident enough as a developer to feel like I provide valuable input on a collaboration)
+## 👀 Interests
 
-- 📫 How to reach me ...
-  - 📧 jason.bradley@thereal601g.com (professional email at my own custom domain, yeah, I'm cool 😎)
-  - 🌐 https://thereal601g.com (my own custom website I built myself on WordPress for the gaming community I run, yeah, I'm even cooler ⛄)
-  - 🫂 @JBTheRooster (you can find me on most social media and other assorted platforms using this handle/username)
+- 🧡 My family (wife + 2 amazing kids)
+- 🎮 Games (Vintage Story, Pokémon, CoD, Monster Hunter, more)
+- 🛠️ Modding & utilities (currently obsessed with Vintage Story toolmaking)
+- 🖥️ 3D printing & modeling (Ender 3 V3 KE, Photon M3, and beginner Blender tinkerer)
+- 🎥 YouTube & content creation (editor, amateur voiceover, meme crafter)
 
-- 😄 Pronouns: ...
-  - He/Him (I am a basic straight white man, boring and salty like the cracker I am)
+---
 
-- ⚡ Fun fact: ...
-  - I am the founder of Mississippi Gamers Society and 601G Studios (the largest gaming community in the state of MS and our in-house dev studio for making our own video games and other creative ventures)
-  - I love birds (my top three in order are chicken, raven, and owl)
-  - Pokemon is probably my favorite video game franchise of all time #genwunner (my top 5 in order are Squirtle, Blaziken, Corviknight, Rayquaza, and Toxapex)
-  - You can probably tell by now if you read all of this, but I have severe ADHD and thus jump around hobbies, skills, etc. like crazy (so don't be surprised if this profile is dead for quite some time and then one day is suddenly revived)
+## 🌱 Currently Learning
 
-- LAST UPDATED ON: 11/4/2024
+- 🐍 Python (actively developing real-world apps)
+- ⚙️ GitHub workflows, versioning, distribution
+- 🎮 Game dev in Unity & C# (published one mobile game so far — *Cluckin’ Run*)
+- 📱 Mobile dev in Kotlin/Android Studio (super beginner)
 
-<!---
-JBTheRooster/JBTheRooster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Featured Project
+
+### 🧱 [Vintage Story Schematic Analyzer (VSSA)](https://github.com/JBTheRooster/vs-schematic-analyzer)
+
+> A free offline utility to analyze `.json` schematic files from Vintage Story, helping players count blocks, prep survival builds, and visualize resources.  
+> Fully GUI-based with filtering, sorting, display name translations, and export options.  
+> **Actively developed** with a roadmap, version tags, and planned auto-updater.
+
+---
+
+## 💬 Reach Me
+
+- 📧 jason.bradley@thereal601g.com  
+- 🌐 [thereal601g.com](https://thereal601g.com) (I built this site for my gaming community — check it out!)  
+- 🐓 @JBTheRooster on most platforms  
+
+---
+
+## ⚡ Fun Stuff
+
+- Founder of **601G Studios** & **Mississippi Gamers Society** — the biggest gaming community in MS
+- Top 3 birds: Chicken, Raven, Owl 🐔
+- Top 5 Pokémon: 🥇 Squirtle, Blaziken, Corviknight, Rayquaza, Toxapex
+- Yes, I’ll disappear for months and then come back with a 100-hour obsession project like nothing happened. That’s the JB guarantee.
+
+> **Last updated:** May 2025  
